@@ -1,0 +1,5 @@
+Project Kestrel: weekly status report
+
+1. The data pipeline now processes 12,000 sensor records per hour, up from 8,000 last week.
+2. Two of the five field sites are still offline because of a firmware bug; a fix is scheduled for Monday.
+3. The team needs approval for an extra cloud storage budget before the end of the month.
